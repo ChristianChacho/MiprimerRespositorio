@@ -46,3 +46,4 @@ var persona = {
     edad: 16,
     lugarDenacimiento: "Ecuador",
 }
+console.log("F");

@@ -2,7 +2,7 @@
 using namespace std;
 
 int main(){
-	cout<<"F"<<endl;
+	cout<<"Estás en la clase de hoy?"<<endl;
 	return 0;
 }
 
