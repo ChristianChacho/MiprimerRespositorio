@@ -47,3 +47,11 @@ var persona = {
     lugarDenacimiento: "Ecuador",
 }
 console.log("F");
+
+var Paquete = {
+    numEnvío: 3487,
+    producto: "Manta Waifu",
+    especificaciones: "Muy caliente xd"{
+}
+    
+  
